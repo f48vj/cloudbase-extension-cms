@@ -1,10 +1,10 @@
 const InnerDefaultValue: Partial<ITcbCmsConfing> = {
-  appName: 'CloudBase',
-  cmsTitle: 'CloudBase CMS',
+  appName: 'VoguingShanghai',
+  cmsTitle: 'VoguingShanghai CMS',
   cmsLogo: './icon.svg',
-  cmsDocLink: 'https://docs.cloudbase.net/cms/intro.html',
-  cmsHelpLink: 'https://support.qq.com/products/148793',
-  officialSiteLink: 'https://cloudbase.net',
+  // cmsDocLink: 'https://docs.cloudbase.net/cms/intro.html',
+  // cmsHelpLink: 'https://support.qq.com/products/148793',
+  // officialSiteLink: 'https://cloudbase.net',
 }
 
 /**
